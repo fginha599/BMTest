@@ -14,6 +14,7 @@
 		04374A931CE9550B0023640E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 04374A921CE9550B0023640E /* Assets.xcassets */; };
 		04374A961CE9550B0023640E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04374A941CE9550B0023640E /* LaunchScreen.storyboard */; };
 		04374A9F1CE957FC0023640E /* TFLView.m in Sources */ = {isa = PBXBuildFile; fileRef = 04374A9E1CE957FC0023640E /* TFLView.m */; };
+		04374AA21CE95C6B0023640E /* TFLView2.m in Sources */ = {isa = PBXBuildFile; fileRef = 04374AA11CE95C6B0023640E /* TFLView2.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,8 @@
 		04374A971CE9550B0023640E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		04374A9D1CE957FC0023640E /* TFLView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TFLView.h; sourceTree = "<group>"; };
 		04374A9E1CE957FC0023640E /* TFLView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TFLView.m; sourceTree = "<group>"; };
+		04374AA01CE95C6B0023640E /* TFLView2.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TFLView2.h; sourceTree = "<group>"; };
+		04374AA11CE95C6B0023640E /* TFLView2.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TFLView2.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +75,8 @@
 				04374A861CE9550B0023640E /* Supporting Files */,
 				04374A9D1CE957FC0023640E /* TFLView.h */,
 				04374A9E1CE957FC0023640E /* TFLView.m */,
+				04374AA01CE95C6B0023640E /* TFLView2.h */,
+				04374AA11CE95C6B0023640E /* TFLView2.m */,
 			);
 			path = BMTest;
 			sourceTree = "<group>";
@@ -155,6 +160,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				04374A8E1CE9550B0023640E /* ViewController.m in Sources */,
+				04374AA21CE95C6B0023640E /* TFLView2.m in Sources */,
 				04374A9F1CE957FC0023640E /* TFLView.m in Sources */,
 				04374A8B1CE9550B0023640E /* AppDelegate.m in Sources */,
 				04374A881CE9550B0023640E /* main.m in Sources */,
