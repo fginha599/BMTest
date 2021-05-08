@@ -31,4 +31,12 @@
     NSLog(@"managerTest====");
 
 }
+
+
+-(void)version1Formanager{
+
+
+    NSLog(@"经理创建了版本1了");
+
+}
 @end
