@@ -29,12 +29,6 @@
 -(void)mangerTest{
 
     NSLog(@"managerTest====");
-}
-
-//wangwu的测试
--(void)testWang{
 
 }
-
-//
 @end
