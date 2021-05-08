@@ -33,17 +33,19 @@
 }
 
 
+//现在修改version1中的不能读图片的bug
+-(void)fixReadPicBug
+{
+
+    NSLog(@"=====fixReadPicBug");
+
+
+}
+
 -(void)version1Formanager{
 
 
     NSLog(@"经理创建了版本1了");
-
-}
-
-
--(void)completion2ForManager{
-
-    NSLog(@"接着完成版本2后面的功能");
 
 }
 @end
