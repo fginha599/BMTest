@@ -25,11 +25,10 @@
     NSLog(@"test3=======");
 
 }
+//经理测试了下
+-(void)mangerTest{
 
-//wangwu的测试
--(void)testWang{
-
-
+    NSLog(@"managerTest====");
 
 }
 @end
