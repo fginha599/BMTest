@@ -16,6 +16,7 @@
 		04374A9F1CE957FC0023640E /* TFLView.m in Sources */ = {isa = PBXBuildFile; fileRef = 04374A9E1CE957FC0023640E /* TFLView.m */; };
 		04374AA21CE95C6B0023640E /* TFLView2.m in Sources */ = {isa = PBXBuildFile; fileRef = 04374AA11CE95C6B0023640E /* TFLView2.m */; };
 		04374AA51CE95E810023640E /* TFLView3.m in Sources */ = {isa = PBXBuildFile; fileRef = 04374AA41CE95E810023640E /* TFLView3.m */; };
+		04374AA81CE95F0D0023640E /* TFLView4.m in Sources */ = {isa = PBXBuildFile; fileRef = 04374AA71CE95F0D0023640E /* TFLView4.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -35,6 +36,8 @@
 		04374AA11CE95C6B0023640E /* TFLView2.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TFLView2.m; sourceTree = "<group>"; };
 		04374AA31CE95E810023640E /* TFLView3.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TFLView3.h; sourceTree = "<group>"; };
 		04374AA41CE95E810023640E /* TFLView3.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TFLView3.m; sourceTree = "<group>"; };
+		04374AA61CE95F0D0023640E /* TFLView4.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TFLView4.h; sourceTree = "<group>"; };
+		04374AA71CE95F0D0023640E /* TFLView4.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TFLView4.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,6 +54,8 @@
 		04374A7A1CE9550A0023640E = {
 			isa = PBXGroup;
 			children = (
+				04374AA61CE95F0D0023640E /* TFLView4.h */,
+				04374AA71CE95F0D0023640E /* TFLView4.m */,
 				04374A851CE9550B0023640E /* BMTest */,
 				04374A841CE9550B0023640E /* Products */,
 			);
@@ -167,6 +172,7 @@
 				04374A8E1CE9550B0023640E /* ViewController.m in Sources */,
 				04374AA51CE95E810023640E /* TFLView3.m in Sources */,
 				04374AA21CE95C6B0023640E /* TFLView2.m in Sources */,
+				04374AA81CE95F0D0023640E /* TFLView4.m in Sources */,
 				04374A9F1CE957FC0023640E /* TFLView.m in Sources */,
 				04374A8B1CE9550B0023640E /* AppDelegate.m in Sources */,
 				04374A881CE9550B0023640E /* main.m in Sources */,
